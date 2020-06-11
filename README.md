@@ -1,5 +1,5 @@
-# React Basic Starter Boilerplate
-A basic webpack starter boilerplate for React projects.
+# React Redux Basic Starter Boilerplate
+A basic webpack starter boilerplate for React Redux projects.
 ## Get started
 ### Installation
 ```
@@ -17,6 +17,7 @@ npm start
 npm run build
 ```
 ## Features
+* Redux
 * Webpack
 * Babel
 * Sass
